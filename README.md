@@ -32,22 +32,6 @@ Men full-stack dasturchiman, ammo **backend** rivojlantirishga ixtisoslashganman
 
 ---
 
-## 🛠️ Loyihalar
-
-### 📌 Loyiha 1 – [Loyiha nomi]
-**Texnologiyalar:** FastAPI, PostgreSQL, Redis  
-- Kengaytiriladigan REST API yaratildi  
-- Keshlash yordamida javob tezligi sezilarli darajada oshirildi  
-- 🔗 [GitHub Havolasi](#)
-
-### 📌 Loyiha 2 – [Loyiha nomi]
-**Texnologiyalar:** Django, MySQL, Celery, Redis  
-- Fon vazifalar uchun Celery va Redis integratsiya qilindi  
-- Django admin interfeysi orqali boshqaruv qulayligi yaratildi  
-- 🔗 [GitHub Havolasi](#)
-
----
-
 ## 📊 GitHub Statistikalar
 
 <p align="center">
@@ -59,14 +43,7 @@ Men full-stack dasturchiman, ammo **backend** rivojlantirishga ixtisoslashganman
 
 ## 🌱 Hozirda o‘rganayapman
 
-- 🐳 Kubernetes va Docker
+- 🐳 Fast API
 - 🔍 GraphQL
 - 🤖 Machine Learning asoslari
-- ☁️ AWS / Azure cloud texnologiyalari
 
----
-
-## 💼 Ish tajribasi
-
-**Backend Developer** | *Kompaniya nomi* | *2023 - hozirgacha*  
-- FastAPI yordamida yuqori
